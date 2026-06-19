@@ -13,43 +13,17 @@ Multi-channel prospecting
 SaaS growth and demand generation
 Expert List
 #	Expert	Company / Role	Primary Platform	Status
-1	
-	
-	
-	⏳
-2	
-	
-	
-	⏳
-3	
-	
-	
-	⏳
-4	
-	
-	
-	⏳
-5	
-	
-	
-	⏳
-6	
-	
-	
-	⏳
-7	
-	
-	
-	⏳
-8	
-	
-	
-	⏳
-9	
-	
-	
-	⏳
-10	
-	
-	
-	⏳
+Expert List
+
+#  Expert  Company / Role  Primary Platform  Status
+
+1  Jason Bay  CEO @ Outbound Squad  LinkedIn / YouTube  ⏳
+2  Will Allred  Co-founder @ Lavender  LinkedIn  ⏳
+3  Chris Walker  CEO @ Refine Labs  YouTube / LinkedIn  ⏳
+4  Morgan J Ingram  GTM Creator  LinkedIn / YouTube  ⏳
+5  Max Altschuler  Founder @ Sales Hacker  LinkedIn  ⏳
+6  Devin Reed  Head of Content @ Clari  LinkedIn  ⏳
+7  Lloyed Lobo  Co-founder @ Boast AI  LinkedIn  ⏳
+8  Alex Fine  GTM Advisor  LinkedIn  ⏳
+9  Sam Nelson  GTM Consultant  LinkedIn  ⏳
+10 Aaron Ross  Author of Predictable Revenue  Book / LinkedIn  ⏳
